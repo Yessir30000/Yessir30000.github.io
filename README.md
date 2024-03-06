@@ -5,9 +5,8 @@
 	<title>Coursera is Cool!</title>
 </head>
 <body>
-Marieam is a Baddie!
+Marieam is a Baddie! Steve is the Best fr.
 </body>
-
 <body>
 Steve is the Best fr
 </body>
