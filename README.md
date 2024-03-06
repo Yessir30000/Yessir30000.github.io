@@ -6,9 +6,7 @@
 </head>
 <body>
 Marieam is a Baddie! Steve is the Best fr.
-</body>
-<body>
-Steve is the Best fr
+	Why am I so awesome.
 </body>
 </html>
 
